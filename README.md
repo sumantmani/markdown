@@ -17,8 +17,8 @@
 > ##### H5
 > ###### H6
 
-## List
-### Unordered
+## List 
+### Unordered 
 ```markdown
 * Item 1
 * Item 2
@@ -31,7 +31,8 @@
 > * Item 3
 >   * subitem a
 >   * subitem b
-### Ordered
+
+### Ordered 
 ```markdown
 1. Item 1
 2. Item 2
