@@ -53,8 +53,10 @@
  ```
  (Three consecutive dashes) 
  
- ---
- (Three consecutive underscores)
+ --- 
+ (Three consecutive underscores) 
+ 
  ___
- (Three consecutive asterisks)
- ***
+ (Three consecutive asterisks) 
+ 
+ *** 
