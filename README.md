@@ -1,6 +1,6 @@
 # Markdown Cheatsheet
 
-## Headings
+## Header
 ---
 ```markdown
 # H1
@@ -10,6 +10,12 @@
 ##### H5
 ###### H6
 ```
+> # H1
+> ## H2
+> ### H3
+> #### H4
+> ##### H5
+> ###### H6
 
 ## List
 ### Unordered
@@ -36,5 +42,19 @@
 > 1. Item 1
 > 2. Item 2
 > 3. Item 3
->   1. subitem a
->   2. subitem b
+>    1. subitem a
+>    2. subitem b
+
+## Horizontal Rules
+```markdown
+ ---
+ ___
+ *** 
+ ```
+ (Three consecutive dashes) 
+ 
+ ---
+ (Three consecutive underscores)
+ ___
+ (Three consecutive asterisks)
+ ***
