@@ -61,3 +61,24 @@
  (Three consecutive asterisks) 
  
  *** 
+
+## Emphasis 
+### Bold
+```markdown
+**A Bold Text**
+```
+**A Bold Text**
+
+### Italics
+```markdown
+_This is italic_
+```
+_This is italic_
+
+### Strikethrough
+```markdown
+~~This is strikethrough text~~
+```
+~~This is strikethrough text~~
+
+### 
