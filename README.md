@@ -81,4 +81,8 @@ _This is italic_
 ```
 ~~This is strikethrough text~~
 
-### 
+## Links
+```markdown
+[I am a link](https://github.com/sumantmani/)
+```
+[I am a link](https://github.com/sumantmani/)
