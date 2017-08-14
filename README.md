@@ -86,3 +86,11 @@ _This is italic_
 [I am a link](https://github.com/sumantmani/)
 ```
 [I am a link](https://github.com/sumantmani/)
+
+## Blockquotes
+```markdown
+> I am example blockquoted
+> continued blockquoted
+```
+> I am example blockquoted  
+> continued blockquoted
