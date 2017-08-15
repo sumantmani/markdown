@@ -94,3 +94,13 @@ _This is italic_
 ```
 > I am example blockquoted  
 > continued blockquoted
+
+## Inline images
+```markdown
+![Alt text](/path/to/img.jpg)
+
+![Alt text](/path/to/img.jpg "Optional title")
+```
+![Alt text](/path/to/img.jpg)
+
+![Alt text](/path/to/img.jpg "Optional title")
