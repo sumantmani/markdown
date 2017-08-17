@@ -104,3 +104,9 @@ _This is italic_
 ![Alt text](/path/to/img.jpg)
 
 ![Alt text](/path/to/img.jpg "Optional title")
+
+## Comments
+```markdown
+[comment]: <> (This is a comment.)
+```
+[comment]: <> (This is a comment.)
