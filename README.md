@@ -1,5 +1,15 @@
 # Markdown Cheatsheet
 
+## Contents
+1. Header
+2. List
+3. Horizontal Rules
+4. Emphasis 
+5. Links
+6. Blockquotes
+7. Inline images
+8. Comments
+
 ## Header
 ---
 ```markdown
