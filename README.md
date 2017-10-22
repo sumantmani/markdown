@@ -1,14 +1,14 @@
 # Markdown Cheatsheet
 
 ## Contents
-1. Header
-2. List
-3. Horizontal Rules
-4. Emphasis 
-5. Links
-6. Blockquotes
-7. Inline images
-8. Comments
+1. [Header](#header)
+2. [List](#list)
+3. [Horizontal Rules](#horizontal-rules)
+4. [Emphasis](#emphasis)
+5. [Links](#links)
+6. [Blockquotes](#blockquotes)
+7. [Inline images](#inline-images)
+8. [Comments](#comments)
 
 ## Header
 ---
