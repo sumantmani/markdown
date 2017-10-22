@@ -1,17 +1,20 @@
 # Markdown Cheatsheet
 
-## Contents
-1. [Header](#header)
-2. [List](#list)
-3. [Horizontal Rules](#horizontal-rules)
-4. [Emphasis](#emphasis)
-5. [Links](#links)
-6. [Blockquotes](#blockquotes)
-7. [Inline images](#inline-images)
-8. [Comments](#comments)
+## Table of Contents
+
+- [Header](#header)
+- [List](#list)
+- [Horizontal Rules](#horizontal-rules)
+- [Emphasis](#emphasis)
+- [Links](#links)
+- [Blockquotes](#blockquotes)
+- [Inline images](#inline-images)
+- [Comments](#comments)
+
+---
 
 ## Header
----
+
 ```markdown
 # H1
 ## H2
@@ -28,7 +31,9 @@
 > ###### H6
 
 ## List 
+
 ### Unordered 
+
 ```markdown
 * Item 1
 * Item 2
