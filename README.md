@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [What is markdown](#what-is-markdown)
 - [Header](#header)
 - [List](#list)
 - [Horizontal Rules](#horizontal-rules)
@@ -12,6 +13,13 @@
 - [Comments](#comments)
 
 ---
+
+## What is markdown ?
+
+Markdown definition on [wiki](https://en.wikipedia.org/wiki/Markdown)
+> Markdown is a lightweight markup language with plain text formatting syntex.
+> It is designed so that it can be converted to HTML and many other format using atool by the same name.
+
 
 ## Header
 
